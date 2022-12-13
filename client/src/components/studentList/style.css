@@ -1,0 +1,26 @@
+.container-table {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 60%;
+}
+
+.line {
+  margin-top: 5px;
+  width: 55%;
+  background-color: blue;
+  height: 2px;
+}
+
+.span-text {
+  margin-left: 40px;
+}
+
+.container-line {
+  margin-top: 15px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 55%;
+}
